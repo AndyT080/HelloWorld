@@ -1,4 +1,4 @@
 # HelloWorld
 For learning
-Hi world lerning GitHub
-! [Headhost] (BCNbeach.jpg)
+Hi world, learning GitHub
+![Headshot](BCNbeach.jpg)
